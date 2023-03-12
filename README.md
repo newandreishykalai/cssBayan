@@ -1,1 +1,1 @@
-:https://${newandreishykalai}.github.io/cssBayan/cssBayan/index.html
+:https://newandreishykalai.github.io/cssBayan/cssBayan/index.html
